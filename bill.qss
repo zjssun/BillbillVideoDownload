@@ -1,0 +1,40 @@
+QPushButton#lab_cookie{
+    font-size: 25px;
+    font-family:"Georgia";
+}
+QLabel#lab_bill{
+    font-size: 20px;
+    font-family:"Microsoft YaHei";
+}
+QTextEdit#message{
+    font-size: 14px;
+    font-family:"Microsoft YaHei";
+}
+QPushButton#btn_file{
+    font-size: 14px;
+    font-family:"Microsoft YaHei";
+}
+QLabel#about_software_text{
+    font-size: 20px;
+    font-family:"Microsoft YaHei";
+}
+QLabel#about_author{
+    font-size: 15px;
+    font-family:"Microsoft YaHei";
+}
+QLabel#about_authorname{
+    font-size: 18px;
+    font-family:"Microsoft YaHei";
+}
+QLabel#about_feekback{
+    font-size: 15px;
+    font-family:"Microsoft YaHei";
+}
+QLabel#about_email{
+    font-size: 16px;
+    font-family:"Microsoft YaHei";
+}
+QCheckBox#checkbox{
+    font-size: 17px;
+    font-family:"Microsoft YaHei";
+}
